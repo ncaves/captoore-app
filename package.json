@@ -120,8 +120,8 @@
         "lint": "eslint"
     },
     "engines": {
-        "node": ">=18.0.0",
-        "npm": ">=8.0.0"
+        "node": ">=17.5.0",
+        "npm": ">=8.4.1"
     },
     "browserslist": {
         "production": [
